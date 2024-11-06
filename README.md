@@ -1,6 +1,7 @@
 ### Hello, I'm Michael Selvesakis 👋
 
 ## I'm a Full Stack Software Engineer & System Administrator
+- 🎓 Studying Computer Science at Democritus University of Thrace, Greece
 - 🏆 Current Lead Full Stack Developer at IQ3Solar.
 - 👥 I'm open to new projects ideas and collaborations.
 
