@@ -37,7 +37,7 @@
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miselve&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=miselve&theme=dark&mode=weekly)](https://git.io/streak-stats)
 <!--
 **miselve/miselve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
