@@ -8,6 +8,9 @@
 ### Connect with me: 
 <a href="https://www.linkedin.com/in/michael-selvesakis-010b65242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:michaelselvesakis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
+<a href="https://michaelselvesakis.com/" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Website"> </a>
+
+
 
 
 ### Languages & Frameworks:
